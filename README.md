@@ -8,7 +8,7 @@ Converted dates
 
 Renamed columns
 
-✔Standardized text (education, marital status, etc.)
+Standardized text (education, marital status, etc.)
 
 Calculated age from year_birth
 
